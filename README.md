@@ -1,10 +1,10 @@
 <h1>Credit Risk</h1>
 
 <h2>Description</h2>
-L'Objectif de ce projet est d'analyser les facteurs de risques lors de la souscription à un crédit consommation.  
+The objective of this project is to analyze the risk factors when taking out a consumer credit
 <br />
 
-<h2>Langages et Outils</h2>
+<h2>Languages and Tools</h2>
 
 - <b>Python</b> 
 - <b>Machine Learning</b>
@@ -12,7 +12,7 @@ L'Objectif de ce projet est d'analyser les facteurs de risques lors de la souscr
 <h2>Code:</h2>
 
 <p align="center">
-Imoportation des Packages : <br/>
+Packages importation : <br/>
 <img src="https://i.imgur.com/qCmgRJf.png" height="80%" width="80%" alt="Imoportation des Packages"/>
 <br />
 <br />
@@ -20,7 +20,7 @@ DataFrame :  <br/>
 <img src="https://i.imgur.com/XSGhPJ5.png" height="80%" width="80%" alt="DataFrame"/>
 <br />
 <br />
-Valeurs manquantes: <br/>
+Missing values: <br/>
 <img src="https://i.imgur.com/HpxTMsb.png" height="80%" width="80%" alt="Valeurs manquantes"/>
 <br />
 <br />
@@ -52,27 +52,27 @@ Countplot Risk:  <br/>
 <img src="https://i.imgur.com/gZucJmk.png" height="80%" width="80%" alt="Countplot Risk"/>
 <br />
 <br />
-Répartition des valeurs:  <br/>
+Values distribution:  <br/>
 <img src="https://i.imgur.com/EUFbfJM.png" height="80%" width="80%" alt="Répartition des valeurs"/>
 <br />
 <br />
-Histogramme Age:  <br/>
+Histogram Age:  <br/>
 <img src="https://i.imgur.com/t5e67YC.png" height="80%" width="80%" alt="Histogramme Age"/>
 <br />
 <br />
-Histogramme Duration et Credit amount:  <br/>
+Histogram Duration and Credit amount:  <br/>
 <img src="https://i.imgur.com/1dCPqha.png" height="80%" width="80%" alt="Histogramme Duration et Credit amount"/>
 <br />
 <br />
-Risk par variable categorielle:  <br/>
+Risk by categorial variables:  <br/>
 <img src="https://i.imgur.com/NjxPTmH.png" height="80%" width="80%" alt="Risk"/>
 <br />
 <br />
-visualisation Risk:  <br/>
+Visualisation Risk:  <br/>
 <img src="https://i.imgur.com/Cr8LcWb.png" height="80%" width="80%" alt="visualisation"/>
 <br />
 <br />
-Résultats :  <br/>
+Results :  <br/>
 <img src="https://i.imgur.com/eGnfSaM.png" height="80%" width="80%" alt="Résultats"/>
 <br />
 <br />
@@ -80,15 +80,15 @@ Outliers:  <br/>
 <img src="https://i.imgur.com/bgBJ9EQ.png" height="80%" width="80%" alt="Outliers"/>
 <br />
 <br />
-Analyse outliers:  <br/>
+Outliers analysis:  <br/>
 <img src="https://i.imgur.com/PR6ZFLV.png" height="80%" width="80%" alt="Analyse"/>
 <br />
 <br />
-Analyse outliers Radio/TV:  <br/>
+Outliers analysis Radio/TV:  <br/>
 <img src="https://i.imgur.com/NJN2IVH.png" height="80%" width="80%" alt="Radio/TV"/>
 <br />
 <br />
-Corrélation:  <br/>
+Correlation:  <br/>
 <img src="https://i.imgur.com/ZN7psSP.png" height="80%" width="80%" alt="Corrélation"/>
 <br />
 <br />
@@ -96,19 +96,19 @@ Khi2 :  <br/>
 <img src="https://i.imgur.com/gEEkiiM.png" height="80%" width="80%" alt="Khi2"/>
 <br />
 <br />
-multi corrélation:  <br/>
+Multi correlation:  <br/>
 <img src="https://i.imgur.com/zre5nKJ.png" height="80%" width="80%" alt="multi corrélation"/>
 <br />
 <br />
-Modélisation:  <br/>
+Modelling:  <br/>
 <img src="https://i.imgur.com/ZD0Ctxx.png" height="80%" width="80%" alt="Modélisation"/>
 <br />
 <br />
-Encodage:  <br/>
+Encoding:  <br/>
 <img src="https://i.imgur.com/OixtFMm.png" height="80%" width="80%" alt="Encodage"/>
 <br />
 <br />
-Résultats du modèle:  <br/>
+Model result:  <br/>
 <img src="https://i.imgur.com/Wbl1IC7.png" height="80%" width="80%" alt="Résultats du modèle"/>
 <br />
 <br />
